@@ -1,7 +1,7 @@
 # IneuBytes_Data_Science_Projects_July-2023
 - Name: AKSHAT MITTAL
 - Regd No.: INBT01217
-- This repository consists of the projects during the internship period with the iNeuBytes.
+- This repository consists of the projects during the Data Science internship period with the iNeuBytes.
   
 # Task 1: Heart Disease Classification
 # Description
